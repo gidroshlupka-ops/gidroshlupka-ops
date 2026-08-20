@@ -62,4 +62,4 @@ Full-stack разработчик: собираю продукты от бэке
 
 ---
 
-<img src="./photo_2026-08-21_08-50-26.jpg" alt="Afori Banner" width="100%" />
+<img src="./banner.png" alt="Afori Banner" width="100%" />
