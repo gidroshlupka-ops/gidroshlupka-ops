@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./banner.png" alt="Afori Banner" width="100%" />
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Python+%2F+React+%2F+Telegram+Bots;LLM+%26+AI+Integrations" alt="Typing SVG" />
@@ -63,3 +61,5 @@ Full-stack разработчик: собираю продукты от бэке
 Подробности и live-демо — на [портфолио](https://ССЫЛКА).
 
 ---
+
+<img src="./banner.png" alt="Afori Banner" width="100%" />
