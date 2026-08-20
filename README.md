@@ -1,43 +1,49 @@
 <div align="center">
 
-<img src="cat.png" width="200" style="border-radius: 50%;">
+<img src="https://raw.githubusercontent.com/gidroshlupka-ops/gidroshlupka-ops/main/cat.png" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 2px solid #38bdf8;" />
 
-# Привет, я Afori! 👋
-### Fullstack Developer | Python • AI & RAG • Web Architect
+# ✦ Afori | Fullstack Engineer
+### *Python • AI/RAG • Web Architecture • Telegram Ecosystems*
 
----
-
-**«Создаю цифровые продукты на стыке эстетики и высокой производительности.»**
+[🌐 **Посетить сайт-портфолио(в разработке)**](ССЫЛКА) 
 
 ---
 
-### 🛠 Мой основной стек
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### ⚡ Обо мне
+Разрабатываю высокопроизводительные веб-приложения и бэкенд-системы. Соединяю строгий софт (FastAPI, Rust) с качественным UI/UX дизайном и интерактивными интерфейсами.
+
+### 🛠 Технологический стек
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.square/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Чем я занимаюсь
-* **Backend:** Разработка высоконагруженных систем на Python/FastAPI, проектирование RAG-архитектур и AI-агентов.
-* **Frontend:** Создание эстетичных интерфейсов с фокусом на UX и микро-анимации.
-* **Automation:** Telegram-интеграции, парсинг данных (Rust-based) и сложная автоматизация бизнес-процессов.
+### 🏛 Избранные кейсы и проекты
 
----
-
-### 🌐 Портфолио & Кейсы
-*(Здесь будут мои обложки)*
-[**Перейти на мой сайт-портфолио(в разработке)**](ССЫЛКА)
-
----
-
-### 📈 Статистика
+> **Веб-платформа для швейного бизнеса «Ателье Фантазия»**
+> * Адаптивный сайт-витрина с каталогом услуг и мгновенными заявками в Telegram-бот.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gidroshlupka-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="fantaziya.jpg" width="100%" style="border-radius: 8px;" />
 </p>
+
+> **Парфюмерный гид «Арома Гид»**
+> * Премиальный дизайн (Stone & Nature), плавные анимации и интерактивный каталог.
+<p align="center">
+  <img src="aroma.jpg" width="100%" style="border-radius: 8px;" />
+</p>
+
+---
+
+<div align="center">
+
+### 📊 Статистика активности
+<img src="https://github-readme-stats.vercel.app/api?username=gidroshlupka-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 
 </div>
