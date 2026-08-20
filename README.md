@@ -13,6 +13,7 @@ Full-stack разработчик: собираю продукты от бэке
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://ССЫЛКАНАСАЙТ)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@shlalalalalalalo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afori)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Afori19)
 
 </div>
 
@@ -58,12 +59,3 @@ Full-stack разработчик: собираю продукты от бэке
 Подробности и live-демо — на [портфолио](https:/ССЫЛКА).
 
 ---
-
-<div align="center">
-
-📫 Открыт к предложениям — удалённая работа, full-stack / Python / AI-интеграции
-
-<img src="https://github-readme-stats.vercel.app/api?username=gidroshlupka-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-
-</div>
-
