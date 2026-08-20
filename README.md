@@ -58,4 +58,11 @@ Full-stack разработчик: собираю продукты от бэке
 
 Подробности и live-демо — на [портфолио](https:/ССЫЛКА).
 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gidroshlupka-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+
+</div>
+
 ---
